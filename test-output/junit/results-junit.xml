@@ -1,0 +1,32 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="7.00498900000006">
+<testsuite name="tests\example.spec.ts" timestamp="1676873700224" hostname="" tests="3" failures="0" skipped="0" time="2.942" errors="0">
+<testcase name="Create new password encrypted" classname="[chromium] › tests\example.spec.ts › Create new password encrypted" time="0.022">
+<system-out>
+<![CDATA[U2FsdGVkX1/QKikgU5ixy6VHVUl8LLpWwFEIWpJtslmSw11As4ITeJHCXnJl+eXsQO3KvvNKohSxD1Lla/u/DQ==
+Promise {
+  [32m'U2FsdGVkX1/QKikgU5ixy6VHVUl8LLpWwFEIWpJtslmSw11As4ITeJHCXnJl+eXsQO3KvvNKohSxD1Lla/u/DQ=='[39m
+}
+]]>
+</system-out>
+</testcase>
+<testcase name="Correctly login in App" classname="[chromium] › tests\example.spec.ts › Correctly login in App" time="1.479">
+</testcase>
+<testcase name="User Locked out in App" classname="[chromium] › tests\example.spec.ts › User Locked out in App" time="1.441">
+</testcase>
+</testsuite>
+<testsuite name="tests\example.spec.ts" timestamp="1676873700224" hostname="" tests="3" failures="0" skipped="0" time="4.52" errors="0">
+<testcase name="Create new password encrypted" classname="[firefox] › tests\example.spec.ts › Create new password encrypted" time="0.019">
+<system-out>
+<![CDATA[U2FsdGVkX1+8wWH0UbKWP1OLMN2GEF6c7ThLwy6Jpk07JIChcshiCH1iKwg1NZ0I40+gouwiuV6FU/UjOxy7Wg==
+Promise {
+  [32m'U2FsdGVkX1+8wWH0UbKWP1OLMN2GEF6c7ThLwy6Jpk07JIChcshiCH1iKwg1NZ0I40+gouwiuV6FU/UjOxy7Wg=='[39m
+}
+]]>
+</system-out>
+</testcase>
+<testcase name="Correctly login in App" classname="[firefox] › tests\example.spec.ts › Correctly login in App" time="2.331">
+</testcase>
+<testcase name="User Locked out in App" classname="[firefox] › tests\example.spec.ts › User Locked out in App" time="2.17">
+</testcase>
+</testsuite>
+</testsuites>

@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@pages/*": ["./src/pages/*"],
+            "@steps/*": ["./src/steps/*"],
+            "@utils/*": ["./src/utils/*"],
+            "@envs/*": ["./src/env/*"],
+            "@testData/*": ["./tests/testData/*"]
+        },
+        "strict": false,
+        "resolveJsonModule": true,
+        "moduleResolution": "node"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "dev": "https://playwright.dev/",
+    "test": "https://playwright.dev/",
+    "stage": "https://playwright.dev/"
+}

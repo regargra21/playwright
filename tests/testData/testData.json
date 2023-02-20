@@ -1,0 +1,9 @@
+{
+    "LOGIN": {
+        "APP_USERNAME": "standard_user",
+        "APP_USERNAME_LOCKED_OUT": "locked_out_user",
+        "APP_PASSWORD": "U2FsdGVkX18Dcev3g69BpMa1nBd8pYK7m2qc0jWe0MI=",
+        "DB_PASSWORD": "secret_sauce",
+        "EXPECTED_ERROR_MESSAGE": "Epic sadface: Sorry, this user has been locked out."
+    }
+}
